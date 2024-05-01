@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome
 ---
-This is my first blog. $E_{1}$
+Hi, this is Bo Pan. I’m documenting my learning notes in this blog. 
